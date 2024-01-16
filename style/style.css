@@ -343,3 +343,49 @@ main{
         width: 271px;
     }
 }
+
+.sec-3{
+    max-width: 1400px;
+    padding: 70px 0;
+}
+.purchase-title{
+    text-align: center;
+    align-items: center;
+}
+.discount{
+   gap:10px;
+   padding: 20px 0;
+}
+.discount-1{
+    background-image: url('../B9A2-Hero-Travel-main/Images/Group40.png');
+    background-repeat: no-repeat;
+    max-width: 1400px;
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    
+
+}
+.border{
+    padding: 40px 40px;
+}
+.discount-2{
+    background-image: url('../B9A2-Hero-Travel-main/Images/Group39.png');
+    background-repeat: no-repeat;
+    max-width: 1400px;
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 16px;
+}
+.discount-3{
+    background-image: url('../B9A2-Hero-Travel-main/Images/Group13.png');
+    background-repeat: no-repeat;
+    max-width: 1400px;
+    width: 1170px;
+    height: 500px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    
+}
